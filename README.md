@@ -1,5 +1,7 @@
 # Moonkite Skills
 
+[中文版](README_CN.md)
+
 This repository hosts a collection of specialized skills designed for AI agents, enabling them to perform complex creative tasks with structured methodologies.
 
 ## Featured Skill: Moonkite-Maliang (UMPF 创意总监)

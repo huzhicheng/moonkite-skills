@@ -1,5 +1,7 @@
 # Moonkite Skills
 
+[English Version](README.md)
+
 本仓库托管了一系列专为 AI 智能体设计的专业技能，旨在通过结构化的方法论帮助智能体执行复杂的创意任务。
 
 ## 精选技能：Moonkite-Maliang (UMPF 创意总监)
