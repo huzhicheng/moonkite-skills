@@ -28,6 +28,11 @@ This repository hosts a collection of specialized skills designed for AI agents,
 
 ### How to Use
 
+To install these skills, run the following command:
+```bash
+npx skills add huzhicheng/moonkite-skills
+```
+
 To activate the Moonkite-Maliang skill, use any of the following triggers in your conversation with the agent:
 *   "生成提示词" (Generate prompts)
 *   "画一个..." (Draw a...)

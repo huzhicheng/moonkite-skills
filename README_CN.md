@@ -28,6 +28,11 @@
 
 ### 如何使用
 
+要安装这些技能，请运行以下命令：
+```bash
+npx skills add huzhicheng/moonkite-skills
+```
+
 要激活 Moonkite-Maliang 技能，请在与智能体的对话中使用以下任一触发词：
 *   "生成提示词"
 *   "画一个..."
