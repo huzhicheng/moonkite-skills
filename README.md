@@ -49,9 +49,28 @@ The final output follows this structured formula:
 
 ## Repository Structure
 
-*   `moonkite-maliang/`: Contains the core logic and resources for the Moonkite-Maliang skill.
+*   `skills/moonkite-maliang/`: Contains the core logic and resources for the Moonkite-Maliang skill.
     *   `SKILL.md`: Detailed definition of the skill's logic, interaction flows, and rules.
     *   `references/`: Stores auxiliary data such as the master artist list.
+
+## Showcase: Ancient Fairies Night Gathering
+
+Here is an example of a cinematic prompt generated using the **Auto Mode** with **Roger Deakins** as the creative director:
+
+**User Input:** "Ancient style group portrait, 5 beautiful fairies in a pavilion, each visible full body/face, night background, fairyland atmosphere."
+
+**Generated Prompt:**
+> **Composition/Shot**: Wide candid shot of 5 stunning ancient Chinese fairies relaxing in a bright, glowing pavilion. Action is natural and unposed: chatting, sipping tea, leaning back. 35mm lens, crystal clear focus.
+>
+> **Subject & Imperfections**: 5 distinct fairies with peerless, breathtaking beauty (perfect exquisite faces, porcelain skin). One fairy is wearing a magnificent, extra-long trailing skirt. All wearing pristine, colorful luxurious Hanfu. No imperfections.
+>
+> **Style Engine Keywords**: (Roger Deakins style), Bright and Airy, High-Key lighting, soft global illumination, ultra-detailed, flawless aesthetic.
+>
+> **Environment & Lighting**: A fairyland pavilion at night but brightly lit. Surroundings are filled with bioluminescent clouds, glowing jade architecture, and bright starlight. Luminous and clear.
+>
+> **Color & Mood**: Pastel and Bright Jewel Tones. White, Gold, Cyan, Pink, Lavender. Dreamy, divine, heavenly.
+>
+> --ar 16:9 --v 6.0
 
 ---
 *Created for the Moonkite AI community.*

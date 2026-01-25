@@ -49,9 +49,28 @@
 
 ## 仓库结构
 
-*   `moonkite-maliang/`：包含 Moonkite-Maliang 技能的核心逻辑和资源。
+*   `skills/moonkite-maliang/`：包含 Moonkite-Maliang 技能的核心逻辑和资源。
     *   `SKILL.md`：技能逻辑、交互流程和规则的详细定义。
     *   `references/`：存储辅助数据，如大师艺术家列表。
+
+## 案例展示：古风仙女深夜雅集
+
+以下是使用 **自动模式** 并由 **罗杰·迪金斯 (Roger Deakins)** 担任创意总监生成的电影级提示词示例：
+
+**用户输入：** "古风群像, 衣着华丽的古风仙女（5个）在亭子里, 每一个都可见清晰全身\面部, 背景是夜晚, 背景建筑好似仙境"
+
+**生成的提示词：**
+> **Composition/Shot**: Wide candid shot of 5 stunning ancient Chinese fairies relaxing in a bright, glowing pavilion. Action is natural and unposed: chatting, sipping tea, leaning back. 35mm lens, crystal clear focus.
+>
+> **Subject & Imperfections**: 5 distinct fairies with peerless, breathtaking beauty (perfect exquisite faces, porcelain skin). One fairy is wearing a magnificent, extra-long trailing skirt. All wearing pristine, colorful luxurious Hanfu. No imperfections.
+>
+> **Style Engine Keywords**: (Roger Deakins style), Bright and Airy, High-Key lighting, soft global illumination, ultra-detailed, flawless aesthetic.
+>
+> **Environment & Lighting**: A fairyland pavilion at night but brightly lit. Surroundings are filled with bioluminescent clouds, glowing jade architecture, and bright starlight. Luminous and clear.
+>
+> **Color & Mood**: Pastel and Bright Jewel Tones. White, Gold, Cyan, Pink, Lavender. Dreamy, divine, heavenly.
+>
+> --ar 16:9 --v 6.0
 
 ---
 *专为 Moonkite AI 社区打造。*
