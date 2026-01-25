@@ -77,5 +77,3 @@ Here is an example of a cinematic prompt generated using the **Auto Mode** with 
 >
 > --ar 16:9 --v 6.0
 
----
-*Created for the Moonkite AI community.*

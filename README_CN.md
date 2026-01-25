@@ -77,5 +77,4 @@ npx skills add huzhicheng/moonkite-skills
 >
 > --ar 16:9 --v 6.0
 
----
-*专为 Moonkite AI 社区打造。*
+
